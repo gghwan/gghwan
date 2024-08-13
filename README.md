@@ -50,7 +50,19 @@
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongHwan%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
-     [![GyeongHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gghwan)](https://github.com/gghwan/github-readme-stats)
+        # Welcome to My GitHub Profile
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gghwan&show_icons=true&theme=radical&title_color=FFD700&text_color=FFA500&icon_color=FF8C00&bg_color=30,FFFF00,FF4500&border_color=FFA500&border_radius=10&custom_title=My+GitHub+Stats)
+
+# My Primary Programming Languages
+
+- **Python**
+- **C++**
+- **Java**
+- **JavaScript**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gghwan&layout=compact&langs_count=4&theme=radical&title_color=FFD700&text_color=FFA500&icon_color=FF8C00&bg_color=30,FFFF00,FF4500&border_color=FFA500&border_radius=10&hide=html,css,php,ruby&custom_title=Top+Languages)
+
     </div>
 
    
