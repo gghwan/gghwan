@@ -1,9 +1,4 @@
-<div align="center">
-  <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+바로+적용하는+개발자+입니다.”;“함께+성장하고+함께+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
-  
-</div>
 
 <br>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff2600&height=240&text=Hi!%20GGH's%20Dev%20Page&animation=fadeIn&fontColor=ffffff&fontSize=90" />
@@ -11,6 +6,12 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+      <div align="center">
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+바로+적용하는+개발자+입니다.”;“함께+성장하고+함께+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
+  
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
