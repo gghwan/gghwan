@@ -8,11 +8,19 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
       <div align="center">
   <br>
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&color=FFE300&center=true&vCenter=true&width=1000&lines=기술+스택을+바로+적용하는+개발자+입니다.;함께+성장하고+함께+고민하는+개발자+입니다.)
+    <div align="center">
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&color=FFE300&center=true&vCenter=true&width=1000&lines=기술+스택을+바로+적용하는+개발자+입니다.;함께+성장하고+함께+고민하는+개발자+입니다.)](https://git.io/typing-svg)
+
+  
+</div>
+
+<br>
 
 </div>
     </div>
-    <div style="text-align: left;">
+    <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
