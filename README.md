@@ -1,12 +1,14 @@
 
 
 <br>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff2600&height=240&text=Hi!%20MY%20Dev%20Ground&animation=fadeIn&fontColor=ffffff&fontSize=90" />
-    </div>
-    <div style="text-align: center;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-      <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff2600&height=240&text=Hi!%20MY%20Dev%20Ground&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=65&descAlign=70" />
+</div>
+<div style="text-align: center;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; font-family: 'Nanum Pen Script', cursive; font-size: 30px;">Welcome to My Developer Ground</h2>  
+  <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33; font-family: 'Nanum Pen Script', cursive;">
+    Hello! This is where I showcase my development journey. Enjoy your stay!
+  </div> 
+  <div align="center">
   <br>
     <div align="center">
   <br>
