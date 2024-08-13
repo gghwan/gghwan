@@ -48,7 +48,10 @@
     <div align= "center"> <a href=blog.naver.com/vdsl5657> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=blog.naver.com/vdsl5657"> </a>
          <a href=mailto:gghwan93@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gghwan93@gmail.com"> </a>
           </div>  <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😏 Visitor Status </h2> <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongHwan%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👓 GitHub Status </h2> <br> 
     
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gghwan&show_icons=true&theme=radical&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=30,FFFF00,FF4500&border_color=FFA500&border_radius=10&custom_title=My+GitHub+Stats)
 
