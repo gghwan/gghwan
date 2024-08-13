@@ -11,7 +11,7 @@
     <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=FFE300&center=true&vCenter=true&width=1000&lines=기술+스택을+바로+적용하는+개발자+입니다.;함께+성장하고+함께+고민하는+개발자+입니다.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&pause=1000&color=FFE300&center=true&vCenter=true&width=1000&lines=기술+스택을+바로+적용하는+개발자+입니다!;함께+성장하고+함께+고민하는+개발자+입니다!)](https://git.io/typing-svg)
 
   
 </div>
