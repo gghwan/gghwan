@@ -1,7 +1,7 @@
 
 
 <br>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff2600&height=240&text=Hi!%20MYs%20Dev%20Ground&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff2600&height=240&text=Hi!%20MY%20Dev%20Ground&animation=fadeIn&fontColor=ffffff&fontSize=90" />
     </div>
     <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
