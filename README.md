@@ -6,7 +6,7 @@
   <br>
 
   <!-- 타이핑 애니메이션 태그라인 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=세상의+불편함을+해결하고,+새로운+기술을+접목하고;기본에+충실하고+싶은+개발자+김경환입니다." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=%EC%84%B8%EC%83%81%EC%9D%98+%EB%B6%88%ED%8E%B8%ED%95%A8%EC%9D%84+%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0%2C+%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%9D%84+%EC%A0%91%EB%AA%A9%ED%95%98%EA%B3%A0;%EA%B8%B0%EB%B3%B8%EC%97%90+%EC%B6%A9%EC%8B%A4%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EA%B2%BD%ED%99%98%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
   <br>
 
