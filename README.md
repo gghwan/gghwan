@@ -10,14 +10,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gghwan&show_icons=true&theme=tokyonight&title_color=667EEA&text_color=C9D1D9&icon_color=764BA2&bg_color=0D1117&border_color=30363D&border_radius=12&custom_title=gghwan%27s+GitHub+Stats" alt="GitHub Stats" />
-
-  <br><br>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=gghwan&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&background=0D1117&border=30363D&stroke=667EEA&ring=764BA2&fire=F093FB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=667EEA&sideNums=764BA2&dates=8B949E)](https://git.io/streak-stats)
-
+  <br>
 </div>
 
 <br>
