@@ -1,16 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=280&section=header&text=세상의%20불편함을%20해결하고%20새로운%20기술을%20접목하고,%20기본에%20충실하고%20싶은%20개발자&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=&descSize=16&descAlignY=58&descColor=FFFFFFCC" alt="header" />
+  <!-- 헤더 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=&fontSize=0" alt="header" />
+
+  <br>
+
+  <!-- 타이핑 애니메이션 태그라인 -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=세상의+불편함을+해결하고,+새로운+기술을+접목하고;기본에+충실하고+싶은+개발자+김경환입니다." alt="Typing SVG" /></a>
 
   <br>
 
   [![Live Service](https://img.shields.io/badge/🌐_Live-myai.kr-667EEA?style=for-the-badge)](https://myai.kr/home)
-  [![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+  [![Gmail](https://img.shields.io/badge/gghwan93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gghwan93@gmail.com)
+  [![GitHub](https://img.shields.io/badge/gghwan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gghwan)
 
-  <br>
 </div>
 
 <br>
