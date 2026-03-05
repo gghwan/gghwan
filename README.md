@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=250&section=header&text=MyAI%20Edu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI로%20완성하는%20우리%20반%20수업%20준비&descSize=18&descAlignY=58&descColor=FFFFFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=280&section=header&text=김경환&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=세상의%20불편함을%20해결하고%20새로운%20기술을%20접목하고,%20기본에%20충실하고%20싶은%20개발자&descSize=16&descAlignY=58&descColor=FFFFFFCC" alt="header" />
 
   <br>
 
@@ -12,7 +12,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gghwan&show_icons=true&theme=tokyonight&title_color=667EEA&text_color=C9D1D9&icon_color=764BA2&bg_color=0D1117&border_color=30363D&border_radius=12&custom_title=gghwan's+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gghwan&show_icons=true&theme=tokyonight&title_color=667EEA&text_color=C9D1D9&icon_color=764BA2&bg_color=0D1117&border_color=30363D&border_radius=12&custom_title=gghwan%27s+GitHub+Stats" alt="GitHub Stats" />
 
   <br><br>
 
