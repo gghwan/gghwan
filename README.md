@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=280&section=header&text=김경환&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=세상의%20불편함을%20해결하고%20새로운%20기술을%20접목하고,%20기본에%20충실하고%20싶은%20개발자&descSize=16&descAlignY=58&descColor=FFFFFFCC" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=280&section=header&text=세상의%20불편함을%20해결하고%20새로운%20기술을%20접목하고,%20기본에%20충실하고%20싶은%20개발자&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=&descSize=16&descAlignY=58&descColor=FFFFFFCC" alt="header" />
 
   <br>
 
